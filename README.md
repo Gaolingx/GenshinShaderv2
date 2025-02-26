@@ -1,2 +1,2 @@
-# GenshinShaderv2
- GenshinShaderv2 with hlsl
+# StarRailToonShaderv2
+ StarRailToonShaderv2 with hlsl
